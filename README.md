@@ -10,10 +10,9 @@ application up and running.
 
 Things you may want to cover:
 
+##Ruby Version
 
-
-* Ruby version
-
+* Ruby version 2.4.5p335 (2018-10-18 revision 65137) [x64-mingw32]
 
 
 * System dependencies
@@ -47,3 +46,7 @@ Things you may want to cover:
 
 
 * ...
+
+##Heroku
+
+https://glacial-ravine-70104.herokuapp.com/
